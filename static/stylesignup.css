@@ -1,0 +1,38 @@
+body{
+    background-color: #decfab;
+}
+
+.frame{
+    margin-left: 550px;
+    margin-top: 150px;
+    width: 400px;
+    padding: 50px;
+    border: 1px #decfab solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: #FCF2DA;
+}
+
+form { 
+    margin: 0 auto; 
+}
+
+label{
+    margin-left: 5px;
+}
+
+input{
+    margin-left: 78px;
+}
+
+#pass1{
+    margin-left: 80px;
+}
+
+#email{
+    margin-left: 104px;
+}
+
+#pass2{
+    margin-left: 25px;
+}

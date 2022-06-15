@@ -1,0 +1,15 @@
+body{
+    background-color: #decfab;
+}
+
+.frame{
+    margin-left: 575px;
+    margin-top: 200px;
+    width: 300px;
+    padding: 50px;
+    border: 1px #decfab solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: #FCF2DA;
+}
+
