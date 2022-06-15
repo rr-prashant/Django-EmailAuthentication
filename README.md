@@ -23,6 +23,6 @@ Here, a simple form is created where a user can signup, login and signout. Some 
 - Once the user has been signed up in the form, they can use their log in information(i.e. username and password) to logged in into the form again.
 
 - All the data entered by the user are stored in database which is only accessable to admin.
-- 
+
 
 NOTE: if user tries to log in into the form without verifying their email then they would be directly redirect to home page with an message as "bad credentials".
