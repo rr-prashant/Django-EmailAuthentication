@@ -1,5 +1,5 @@
-# Django-Form
- A simple form is created using framework of python i.e. Django
+# Django- Email-Authentication Form
+ A simple form is created using HTML/CSS and authenticated via email using **python Django Framework**
 
 
 A simple form is created using framework of python i.e. Django
